@@ -1,0 +1,14 @@
+
+# CLion settings
+.idea/
+
+# CMake build files
+cmake-build-*/
+build/
+
+# macOS
+.DS_Store
+
+# Compiled output
+*.o
+*.out
